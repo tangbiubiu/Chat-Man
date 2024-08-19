@@ -1,6 +1,9 @@
-# 🤖Chat Man🤖
+# 
 
-![image-20240817232349824](imgs\image-20240817232349824.png)
+<div align=center>
+  <img src="./imgs/chat-man.png" >
+  <h1>🤖Chat Man🤖</h1>
+</div>
 
 ![GitHub stars](https://img.shields.io/github/stars/tangbiubiu/Chat-Man?style=social)![GitHub last commit](https://img.shields.io/github/last-commit/tangbiubiu/Chat-Man)![License](https://img.shields.io/badge/License-MIT-red.svg "Author")
 
